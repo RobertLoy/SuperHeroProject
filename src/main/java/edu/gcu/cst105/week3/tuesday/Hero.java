@@ -21,7 +21,7 @@ public class Hero extends Character implements Moves {
 	// Have to implement because Moves interface says so
 	public int heal(String move) {
 		// TODO Auto-generated method stub
-		System.out.println("Doing healing...");
+		System.out.println("Doing healing and bandaging");
 		return 0;
 	}
 
