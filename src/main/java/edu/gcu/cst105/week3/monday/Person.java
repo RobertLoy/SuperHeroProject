@@ -12,7 +12,7 @@ public class Person {
 		redDelicious.rot(100);
 		System.out.println(redDelicious.toString());
 
-		NEWFRUIT redDelicious = new Apple();
+		Fruit redApple = new Apple();
 		redDelicious.setColor("red");
 		redDelicious.setSweet(true);
 		redDelicious.rot(100);
