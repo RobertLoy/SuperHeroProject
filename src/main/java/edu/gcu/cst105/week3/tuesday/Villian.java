@@ -2,7 +2,7 @@ package edu.gcu.cst105.week3.tuesday;
 
 public class Villian extends Character implements Moves {
 
-	private String motive = "World domination!";
+	private String motive = "World domination and more!";
 	
 	public String getMotive() {
 		return motive;
